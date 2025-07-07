@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Tamago0926Page/static/css/main.df2ba69d.css",
+    "main.js": "/Tamago0926Page/static/js/main.46a20935.js",
+    "static/js/453.51d6be78.chunk.js": "/Tamago0926Page/static/js/453.51d6be78.chunk.js",
+    "static/media/sea.png": "/Tamago0926Page/static/media/sea.f9bc1670ba2483af8161.png",
+    "static/media/humberger.png": "/Tamago0926Page/static/media/humberger.821d0d4f78fe93cc4915.png",
+    "static/media/desk.png": "/Tamago0926Page/static/media/desk.ab363d26763ffa7c99fc.png",
+    "static/media/myicon.png": "/Tamago0926Page/static/media/myicon.3e233d3891c578b1692b.png",
+    "static/media/myicon2.png": "/Tamago0926Page/static/media/myicon2.ae6d0e6a3b3654990f88.png",
+    "index.html": "/Tamago0926Page/index.html",
+    "main.df2ba69d.css.map": "/Tamago0926Page/static/css/main.df2ba69d.css.map",
+    "main.46a20935.js.map": "/Tamago0926Page/static/js/main.46a20935.js.map",
+    "453.51d6be78.chunk.js.map": "/Tamago0926Page/static/js/453.51d6be78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df2ba69d.css",
+    "static/js/main.46a20935.js"
+  ]
+}
